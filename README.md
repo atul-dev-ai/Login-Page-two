@@ -8,6 +8,10 @@ This project demonstrates a clean UI, basic form validation, and beginner-friend
 ## 📸 Preview    
 > ![Login Page Screenshot](webview.png)
 
+## 🌐 Live Previews
+
+* 🚀 **[Login Page Project](https://atul-dev-ai.github.io/Login-Page-two/)**
+
 ---
 
 ## ✨ Features
@@ -58,7 +62,7 @@ This project demonstrates a clean UI, basic form validation, and beginner-friend
 
 ## 💖 Author
 - **Atul-codee**
-- Github: https://github.com/Atul-codee
+- Github: https://github.com/atul-dev-ai
 - And get help from Youtube videos too
 
 ---
